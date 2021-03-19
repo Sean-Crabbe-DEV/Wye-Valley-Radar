@@ -1,6 +1,6 @@
 # Wye Valley Plane Spotting Radar & Website
 
-![Screenshot1](https://raw.githubusercontent.com/wiedehopf/tar1090/screenshots/screenshot3.png)
+![Screenshot1](https://github.com/Sean-Crabbe-DEV/Wye-Valley-Radar/blob/main/screenshots/main.jpg)
 
 This is the repository for the official Wye Valley Plane Spotting website & radar. The website is based on bootstrap 4 and the radar is a customised version of <a href="https://github.com/wiedehopf/tar1090">tar1090</a> 
 
