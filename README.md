@@ -1,6 +1,6 @@
 # Wye Valley Radar
 
-This is a modified version of <a href="https://github.com/wiedehopf/tar1090">tar1090</a> that will be Embedded into the wye valley 
+This is a modified version of <a href="https://github.com/wiedehopf/tar1090">tar1090</a> that will be Embedded into the wye valley plane spotting website
 
 ## Installation
 
