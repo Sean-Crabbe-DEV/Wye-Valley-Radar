@@ -52,4 +52,12 @@ http://192.168.x.yy/tar1090/?pTracks
 - T selects all aircraft
 - B toggle map brightness
 
+## To Do
+
+- ABSD & MLAT Server
+- Feeder
+- Add altitude key
+- fix zoom buttons
+- website
+
 
