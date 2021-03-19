@@ -1,6 +1,11 @@
-# Wye Valley Radar
+# Wye Valley Plane Spotting Radar & Website
 
-This is a modified version of <a href="https://github.com/wiedehopf/tar1090">tar1090</a> that will be Embedded into the wye valley plane spotting website
+This is the repository for the official Wye Valley Plane Spotting website & radar. The website is based on bootstrap 4 and the radar is a customised version of <a href="https://github.com/wiedehopf/tar1090">tar1090</a> 
+
+the radar (tar1090) needs to be supplied with data or no aircraft will be displayed i suggest using a program such as dump1090 to supply the data
+```
+sudo apt-get install dump1090-fa
+```
 
 ## Installation
 
@@ -23,7 +28,7 @@ cd ~
 sudo rm -r Wye-Valley-Radar/
 ```
 
-## View the added webinterface
+## The radar web interface
 
 Click the following URL and replace the IP address with address of your Raspberry Pi:
 
