@@ -43,6 +43,8 @@ http://192.168.x.yy/tar1090/?pTracks
 
 ![Screenshot1](https://github.com/Sean-Crabbe-DEV/Wye-Valley-Radar/blob/main/screenshots/tracks.png)
 
+*This isnt tthe best example of the ?pTracks function to show covarage as that instance hasent been deployed longer than 10 minutes so hasent had time to 
+
 
 ## Keyboard Shortcuts
 
