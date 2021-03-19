@@ -11,6 +11,19 @@ cd Wye-Valley-Radar/
 chmod +x install.sh
 sudo ./install.sh
 ```
+
+## Uninstall
+```
+chmod +x uninstall.sh
+sudo ./uninstall.sh
+sudo rm /etc/default/tar1090
+```
+
+```
+cd ~
+sudo rm -r Wye-Valley-Radar/
+```
+
 ## View the added webinterface
 
 Click the following URL and replace the IP address with address of your Raspberry Pi:
