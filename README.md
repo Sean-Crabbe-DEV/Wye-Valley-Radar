@@ -1,7 +1,6 @@
 # Wye Valley Radar
 
-This is a modified version of tar1090
-    https://github.com/wiedehopf/tar1090
+This is a modified version of <a href="https://github.com/wiedehopf/tar1090">tar1090</a> that will be Embedded into the wye valley 
 
 ## Installation
 
@@ -30,7 +29,6 @@ Click the following URL and replace the IP address with address of your Raspberr
 
 http://192.168.x.yy/tar1090
 
-![Screenshot1](https://raw.githubusercontent.com/wiedehopf/tar1090/screenshots/screenshot3.png)
 
 If you are curious about your coverage, try this URL:
 
