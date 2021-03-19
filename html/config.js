@@ -31,9 +31,9 @@ DefaultCenterLon = -2.673;
 // that location is used and these settings are ignored.
 
 //SiteShow    = false;           // true to show a center marker
-//SiteLat     = 45.0;            // position of the marker
-//SiteLon     = 9.0;
-//SiteName    = "My Radar Site"; // tooltip of the marker
+//SiteLat     = 51.641.0;            // position of the marker
+//SiteLon     = 51.641;
+//SiteName    = "Wye Valley Radar"; // tooltip of the marker
 
 // Color controls for the range outline
 //range_outline_color = '#0000DD';
