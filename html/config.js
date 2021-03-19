@@ -22,8 +22,8 @@
 // degrees.
 
 // Default center of the map.
-DefaultCenterLat = 51.641;
-DefaultCenterLon = -2.673;
+//DefaultCenterLat = 45.0;
+//DefaultCenterLon = 9.0;
 // The google maps zoom level, 0 - 16, lower is further out
 //DefaultZoomLvl   = 7;
 
@@ -31,9 +31,9 @@ DefaultCenterLon = -2.673;
 // that location is used and these settings are ignored.
 
 //SiteShow    = false;           // true to show a center marker
-//SiteLat     = 51.641.0;            // position of the marker
-//SiteLon     = 51.641;
-//SiteName    = "Wye Valley Radar"; // tooltip of the marker
+//SiteLat     = 45.0;            // position of the marker
+//SiteLon     = 9.0;
+//SiteName    = "My Radar Site"; // tooltip of the marker
 
 // Color controls for the range outline
 //range_outline_color = '#0000DD';
@@ -226,18 +226,18 @@ HideCols = [
 //	"#flag",
 //	"#flight",
 	"#registration",
-	"#aircraft_type",
- 	"#squawk",
+//	"#aircraft_type",
+//	"#squawk",
 //	"#altitude",
 //	"#speed",
-//  "#vert_rate",
+	"#vert_rate",
 //	"#distance",
-//	"#track",
-//	"#msgs",
-//	"#seen",
+	"#track",
+	"#msgs",
+	"#seen",
 //	"#rssi",
-//	"#lat",
-//	"#lon",
+	"#lat",
+	"#lon",
 	"#data_source",
 ]
 

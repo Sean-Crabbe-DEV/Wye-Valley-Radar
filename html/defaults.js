@@ -29,8 +29,8 @@ let DisplayUnits = "nautical";
 // degrees.
 
 // Default center of the map.
-DefaultCenterLat = 51.641;
-DefaultCenterLon = -2.673;
+let DefaultCenterLat = 40.56;
+let DefaultCenterLon = -73.66
 // The google maps zoom level, 0 - 16, lower is further out
 let DefaultZoomLvl   = 9;
 
@@ -248,18 +248,18 @@ let HideCols = [
 //	"#flag",
 //	"#flight",
 	"#registration",
-	"#aircraft_type",
- 	"#squawk",
+//	"#aircraft_type",
+//	"#squawk",
 //	"#altitude",
 //	"#speed",
-//  "#vert_rate",
+	"#vert_rate",
 //	"#distance",
-//	"#track",
-//	"#msgs",
-//	"#seen",
+	"#track",
+	"#msgs",
+	"#seen",
 //	"#rssi",
-//	"#lat",
-//	"#lon",
+	"#lat",
+	"#lon",
 	"#data_source",
 ]
 
