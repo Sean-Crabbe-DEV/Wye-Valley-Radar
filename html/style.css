@@ -260,7 +260,7 @@ div#loader { z-index: 99; position: absolute; left: 0; top: 0; bottom: 0; right:
 
 
 .aircraft_table_header {
-    background-color: #00596b;
+    background-color: #478227;
     color: #FFFFFF;
     cursor: pointer;
 }
@@ -357,7 +357,7 @@ select.error, textarea.error, input.error {
     text-transform: uppercase;
     text-align: center;
     color: #fff;
-    background: #003f4b;
+    background: #478227;
 }
 
 .section-title-content {
@@ -407,7 +407,7 @@ select.error, textarea.error, input.error {
 }
 
 .button {
-    background-color: #00596b;
+    background-color: #478227;
     width: calc( 27px * var(--SCALE));
     height: calc( 27px * var(--SCALE));
     border-radius: calc( 2px * var(--SCALE));
