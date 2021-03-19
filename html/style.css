@@ -14,6 +14,14 @@ html, body {
 
 }
 
+.navbar-brand.abs
+    {
+        position: absolute;
+        width: 100%;
+        left: 0;
+        text-align: center;
+    }
+
 select {
     font-size: var(--FS2);
     height: calc(22px * var(--SCALE));
