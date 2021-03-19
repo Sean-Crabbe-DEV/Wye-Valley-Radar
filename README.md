@@ -1,4 +1,4 @@
-# tar1090
+# Wye Valley Radar - A modified version of tar1090
 
 
 ![Screenshot1](https://raw.githubusercontent.com/wiedehopf/tar1090/screenshots/screenshot3.png)
